@@ -30,3 +30,15 @@ https://vuepress.vuejs.org/guide/getting-started.html#quick-start 의 문서를 
 브라우저에서 접근
 
 > http://localhost:8080
+
+
+## 후기
+
+여러가지 장점이 있었다
+
+- vue 프레임워크 공식 문서와 동일한 깔끔한 테마
+
+그리고 단점도 있었다
+
+- 네비게이션 구성을 직접 손으로 구성해주어야 한다. config.js 참고
+
