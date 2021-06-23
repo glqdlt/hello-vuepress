@@ -9,6 +9,24 @@
 
 찾아낸 것은 vuepress 라고 하는 wordpress 의 아류작 느낌의 툴인데, 이를 한번 써보는 프로젝트이다.
 
-https://vuepress.vuejs.org/guide/getting-started.html#quick-start
+## Project Quick Guide
 
-의 문서를 기반으로 시작한다.
+https://vuepress.vuejs.org/guide/getting-started.html#quick-start 의 문서를 기반으로 시작한다.
+
+프로젝트 workspace 로 이동한다.
+
+> cd docs
+
+디펜던시 인스톨 
+
+> npm i
+
+> npm install -D vuepress
+
+로컬 서버 실행
+
+> npm run dev
+
+브라우저에서 접근
+
+> http://localhost:8080

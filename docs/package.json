@@ -1,0 +1,19 @@
+{
+  "name": "hello-vuepress",
+  "version": "0.0.1",
+  "description": "please read ReadMe.md",
+  "main": "index.js",
+  "authors": {
+    "name": "jhun",
+    "email": "dlfdnd0725@gmail.com"
+  },
+  "repository": "https://github.com/glqdlt/hello-vuepress.git/hello-vuepress",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
